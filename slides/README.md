@@ -5,6 +5,11 @@ Here you will find the slide decks for presentaters that allowed GRASSr00tz to s
 - **r00ting out Fraud on Telegram**
     - Kyle Yurek and Matt Meis
     - Technial Track
+
+- **Running_Out_Of_Ideas**
+    - Joern Freydank
+    - Risk Track
+
 - **You Are Not Alone: Building and Thriving in the InfoSec Community**
     - Aaron Hurt
     - GRASSOverflow Track
